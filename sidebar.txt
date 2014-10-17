@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nzs:home|Door43 (nzs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nzs|d43-nzs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nzs/archive/master.zip|d43-nzs.zip]]
+
+**Recent Changes**
+{{changes>ns = nzs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nzs|Ethnologue data]]
+
